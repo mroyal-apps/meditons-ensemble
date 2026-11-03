@@ -1,6 +1,6 @@
 # Méditons Ensemble
 
-Version actuelle : v3.2 (03/11/2026), en français et en anglais, aux couleurs or, bleu nuit, noir et blanc, avec le logo « Le Sceau » (M royal).
+Version actuelle : v3.3 (03/11/2026), en français et en anglais, aux couleurs or, bleu nuit, noir et blanc, avec le logo « Le Sceau » (M royal).
 
 Application pour méditer la Bible chaque jour, avec un coach : méthode guidée en deux parties, Bible Louis Segond 1910 intégrée, enseignements écrits et vidéo, défis de lecture, quiz et bilan.
 
